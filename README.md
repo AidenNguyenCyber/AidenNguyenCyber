@@ -16,7 +16,7 @@ This portfolio brings together my work in systems configuration, cloud provision
 
 ## Featured Projects
 
-A selection of projects covering enterprise administration, cloud infrastructure, automation, and security investigations.
+A selection of projects in systems administration, cloud infrastructure, vulnerability management, and incident response.
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ A selection of projects covering enterprise administration, cloud infrastructure
 <td valign="top"><img alt="Azure VM and Disk Management — Virtual machines and storage" src="assets/featured-azure-vm.svg" width="100%"></td>
 </tr>
 <tr>
-<td valign="top"><img alt="AD Security Group Automation — Scheduled membership cleanup" src="assets/featured-ad-automation.svg" width="100%"></td>
+<td valign="top"><a href="https://github.com/AidenNguyenCyber/vulnerability-management-program"><img alt="Vulnerability Management Program — 23 to 3 findings, an 87% reduction" src="assets/featured-vulnerability-management.svg" width="100%"></a></td>
 <td valign="top"><a href="https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response"><img alt="Azure MySQL Honeypot — Sentinel, KQL and incident response" src="assets/featured-azure-honeypot.svg" width="100%"></a></td>
 </tr>
 </table>
