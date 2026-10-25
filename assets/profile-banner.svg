@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Long Nguyen — Systems Administration, Cloud Infrastructure, Cybersecurity</title>
+<desc id="desc">Navy profile banner with Long Nguyen's professional focus, MSSA program and CompTIA certifications.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0D2034"/>
+    <stop offset="100%" stop-color="#183E58"/>
+  </linearGradient>
+  <pattern id="points" width="28" height="28" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#8FB2C7" opacity=".22"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="16" fill="url(#points)"/>
+<path d="M860 300L1065 0M960 300L1165 0" stroke="#5FD0C9" stroke-width="1.5" opacity=".15"/>
+<path d="M947 83H1060V154H1125M908 205H1004V239H1124" fill="none" stroke="#73CCC8" stroke-width="2" opacity=".20"/>
+<circle cx="947" cy="83" r="5" fill="#73CCC8" opacity=".32"/>
+<circle cx="1060" cy="154" r="5" fill="#73CCC8" opacity=".32"/>
+<circle cx="1004" cy="239" r="5" fill="#73CCC8" opacity=".32"/>
+<rect x="64" y="42" width="42" height="4" rx="2" fill="#66D6CC"/>
+<text x="64" y="75" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="15" letter-spacing="3" fill="#66D6CC">SYSTEMS  /  CLOUD  /  SECURITY</text>
+<text x="60" y="150" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="64" fill="#FFFFFF">Long Nguyen</text>
+<text x="64" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#D9E8F1">Systems Administration  |  Cloud Infrastructure  |  Automation</text>
+<path d="M64 219H720" stroke="#7995A9" opacity=".4"/>
+<text x="64" y="248" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#F3F7F9">Microsoft Software &amp; Systems Academy (MSSA)</text>
+<text x="64" y="278" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#66D6CC">Security+   ·   CySA+   ·   PenTest+</text>
+</svg>
