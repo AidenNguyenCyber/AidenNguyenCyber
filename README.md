@@ -1,35 +1,45 @@
 ![Long Nguyen — Systems Administration, Cloud Infrastructure and Cybersecurity](assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/long-nguyen-b0b2b3138/">LinkedIn</a> ·
-  <a href="https://github.com/AidenNguyenCyber?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/long-nguyen-b0b2b3138/">LinkedIn</a>
 </p>
 
-## About Me
+## About
 
-Computer Science graduate and Air National Guard member with hands-on experience in Windows Server administration, cloud infrastructure, PowerShell automation, and cybersecurity.
+Computer Science graduate and Air National Guard member with hands-on experience in Windows Server administration, cloud infrastructure, automation, and cybersecurity.
 
-This portfolio covers systems configuration, infrastructure provisioning, troubleshooting, and security investigations. Project pages include implementation details and original evidence where available.
+This portfolio brings together my work in systems configuration, cloud provisioning, scripting, troubleshooting, and security investigations.
 
-**Technical areas:** Windows Server · Active Directory · PowerShell · Azure · Microsoft 365 · AWS · Terraform · Docker · KQL
+**Technical focus:** `Windows Server` · `Active Directory` · `PowerShell` · `Azure` · `Microsoft 365` · `AWS` · `Terraform` · `Docker` · `KQL`
 
 ---
 
 ## Featured Projects
 
-Six projects selected to highlight enterprise administration, cloud infrastructure, automation, and security. Projects awaiting repository publication are listed without links.
+A selection of projects covering enterprise administration, cloud infrastructure, automation, and security investigations.
 
-| | |
-| :--- | :--- |
-| **01 · Advanced Group Policy**<br>Group Policy Preferences, ADMX templates, item-level targeting, drive mapping, and Folder Redirection. | **02 · AWS Infrastructure Deployment**<br>Separate Terraform labs provisioning AWS infrastructure resources. |
-| **03 · PKI & Certificate Services**<br>Offline Root CA, Subordinate CA, certificate enrollment, templates, and key recovery. | **04 · Azure VM & Disk Management**<br>Virtual machine provisioning and disk administration with PowerShell. |
-| **05 · AD Security Group Automation**<br>Scheduled PowerShell maintenance of security-group memberships for disabled accounts. | **[06 · Azure MySQL Honeypot Investigation](https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response)**<br>Used MySQL audit logs, Microsoft Sentinel, Defender, and KQL to investigate an Azure honeypot compromise. |
+<table>
+<tr>
+<td width="50%" valign="top"><img alt="Advanced Group Policy — ADMX, GPP and drive mapping" src="assets/featured-group-policy.svg" width="100%"></td>
+<td width="50%" valign="top"><img alt="AWS Infrastructure — Terraform and independent provisioning labs" src="assets/featured-aws-infrastructure.svg" width="100%"></td>
+</tr>
+<tr>
+<td valign="top"><img alt="PKI and Certificate Services — Certificate authority hierarchy and enrollment" src="assets/featured-pki.svg" width="100%"></td>
+<td valign="top"><img alt="Azure VM and Disk Management — Virtual machines and storage" src="assets/featured-azure-vm.svg" width="100%"></td>
+</tr>
+<tr>
+<td valign="top"><img alt="AD Security Group Automation — Scheduled membership cleanup" src="assets/featured-ad-automation.svg" width="100%"></td>
+<td valign="top"><a href="https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response"><img alt="Azure MySQL Honeypot — Sentinel, KQL and incident response" src="assets/featured-azure-honeypot.svg" width="100%"></a></td>
+</tr>
+</table>
 
 ---
 
 ## All Projects
 
-**15 projects across 6 technical categories.** Expand a category to see its projects, descriptions, and published repository links. Unlinked projects will be connected when their repositories are ready.
+**15 projects · 6 technical categories**
+
+Select a category to explore its projects and technical documentation.
 
 <details>
 <summary><strong>01 · Cyber Range</strong> — 5 projects</summary>
@@ -60,7 +70,7 @@ Group Policy and certificate infrastructure administration.
 Windows administrative scripting, reusable functions, and automation.
 
 - **AD Security Group Maintenance Automation** — Scheduled cleanup of disabled user accounts from Active Directory security groups.
-- **[Advanced Functions & Script Modules](https://github.com/AidenNguyenCyber/Az-040-Project)** — Get-CorpOSInfo, CIM, pipeline input, parameter validation, and modules. Documentation refinement remains in progress.
+- **[Advanced Functions & Script Modules](https://github.com/AidenNguyenCyber/Az-040-Project)** — Get-CorpOSInfo, CIM, pipeline input, parameter validation, and modules.
 
 </details>
 
@@ -84,16 +94,10 @@ Cloud resources and Microsoft 365 administration with PowerShell.
 <details>
 <summary><strong>06 · Terraform / AWS</strong> — 3 projects, 14 labs</summary>
 
-Infrastructure as Code exercises, grouped by technical focus. Labs represent separate environments, not one integrated deployment.
+Infrastructure as Code exercises, grouped by technical focus. Each lab represents a separate environment.
 
 - **AWS Infrastructure Deployment** — KodeKloud Labs 2, 4, 7, 9, 35.
 - **AWS Security & IAM** — KodeKloud Labs 13, 14, 16, 24, 27.
 - **Terraform Automation & Monitoring** — KodeKloud Labs 11, 21, 25, 28.
 
 </details>
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/long-nguyen-b0b2b3138/) · [GitHub Repositories](https://github.com/AidenNguyenCyber?tab=repositories)
