@@ -7,6 +7,16 @@
 <text x="28" y="41" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.15" fill="#95B9FA">AWS / TERRAFORM</text>
 <text x="28" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F8FB">AWS Infrastructure</text>
 <text x="28" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#C9DAE6">Provisioning · Independent labs</text>
-<g opacity=".55"><g stroke="#95B9FA" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M452 117h81c32 0 28-42 1-42-9-30-48-31-62-7-24-4-42 15-36 34 2 9 8 15 16 15Z"/><path d="M473 136h48m-24-12v24"/></g></g>
+<g transform="translate(490 108)" aria-hidden="true">
+  <path d="M0-46L26-20 32 7 0 47-32 7-26-20Z" fill="#1361CE" stroke="#D1EAFF" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M0-46L-26-20-32 7-10-5Z" fill="#76BEFF"/>
+  <path d="M0-46L26-20 32 7 10-5Z" fill="#3A92FF"/>
+  <path d="M-26-20L0-46 26-20 10-5-10-5Z" fill="#D1EAFF" opacity=".56"/>
+  <path d="M-32 7L-10-5 0 47Z" fill="#3A92FF"/>
+  <path d="M32 7L10-5 0 47Z" fill="#0A418D"/>
+  <path d="M-10-5L0 47 10-5Z" fill="#76BEFF"/>
+  <path d="M-32 7L-26-20 0-46 26-20 32 7 0 47Z" fill="none" stroke="#D1EAFF" stroke-width="1.4" opacity=".85" stroke-linejoin="round"/>
+  <path d="M0-46V47M-26-20L-10-5H10L26-20M-32 7L-10-5M32 7L10-5" fill="none" stroke="#D1EAFF" stroke-width=".8" opacity=".42"/>
+</g>
 <text x="528" y="35" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7793A7">02</text>
 </svg>
