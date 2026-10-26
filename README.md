@@ -1,35 +1,61 @@
-![Long Nguyen — Systems Administration, Cloud Infrastructure and Cybersecurity](assets/profile-banner.svg)
+![Long Nguyen — Systems Administration, Cloud Infrastructure and Cybersecurity](https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/long-nguyen-b0b2b3138/">LinkedIn</a>
+  <a href="mailto:ligradonguyen12@outlook.com">ligradonguyen12@outlook.com</a> ·
+  <a href="tel:+15187060095">(518) 706-0095</a> ·
+  <a href="https://www.linkedin.com/in/longnguyen-it">LinkedIn</a>
 </p>
 
 ## About
 
-Computer Science graduate and Air National Guard member with hands-on experience in Windows Server administration, cloud infrastructure, automation, and cybersecurity.
+I hold a **Bachelor of Science in Computer Science**, have **6+ years of U.S. Air Force service**, and maintain an **active Secret security clearance**. I also hold CompTIA **Security+, CySA+, and PenTest+** certifications.
 
-This portfolio brings together my work in systems configuration, cloud provisioning, scripting, troubleshooting, and security investigations.
+I'm currently participating in **Microsoft Software & Systems Academy (MSSA)**, specializing in Server and Cloud Administration.
 
-**Technical focus:** `Windows Server` · `Active Directory` · `PowerShell` · `Azure` · `Microsoft 365` · `AWS` · `Terraform` · `Docker` · `KQL`
+My technical lab experience spans Windows Server administration, Active Directory, cloud infrastructure, PowerShell automation, and cybersecurity. This portfolio documents hands-on configurations, troubleshooting, security investigations, and verified results.
+
+**Technical lab focus:**
+
+- **Systems & Identity:** Windows Server, Active Directory, Group Policy, PKI, PowerShell, Microsoft Entra ID
+- **Cloud & Infrastructure:** Microsoft Azure, Microsoft 365, AWS, Terraform, Docker, Linux
+- **Cybersecurity:** Tenable vulnerability management, Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, threat hunting, incident response
 
 ---
 
 ## Featured Projects
 
-A selection of projects in systems administration, cloud infrastructure, vulnerability management, and incident response.
+Selected projects across systems administration, cloud infrastructure, and cybersecurity.
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top"><img alt="Advanced Group Policy — ADMX, GPP and drive mapping" src="assets/featured-group-policy.svg" width="100%"></td>
-<td width="50%" valign="top"><img alt="AWS Infrastructure — Terraform and independent provisioning labs" src="assets/featured-aws-infrastructure.svg" width="100%"></td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/AidenNguyenCyber/AD-Group-Policy-Management"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-group-policy.svg" width="100%" alt="Advanced Group Policy — ADMX · GPP · Targeting"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/AD-Group-Policy-Management">Advanced Group Policy</a></strong></p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/AidenNguyenCyber/Terraform-AWS-Infrastructure-Deployment"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-aws-infrastructure.svg" width="100%" alt="AWS Infrastructure Deployment — Five independent Terraform labs"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/Terraform-AWS-Infrastructure-Deployment">AWS Infrastructure Deployment</a></strong></p>
+</td>
 </tr>
 <tr>
-<td valign="top"><img alt="PKI and Certificate Services — Certificate authority hierarchy and enrollment" src="assets/featured-pki.svg" width="100%"></td>
-<td valign="top"><img alt="Azure VM and Disk Management — Virtual machines and storage" src="assets/featured-azure-vm.svg" width="100%"></td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/AidenNguyenCyber/AD-PKI-Deployment"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-pki.svg" width="100%" alt="PKI & Certificate Services — Two-tier CA · Trust distribution"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/AD-PKI-Deployment">PKI & Certificate Services</a></strong></p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/AidenNguyenCyber/Azure-VM-Disk-Management"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-azure-vm.svg" width="100%" alt="Azure VM & Disk Management — Azure PowerShell · Managed disks"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/Azure-VM-Disk-Management">Azure VM & Disk Management</a></strong></p>
+</td>
 </tr>
 <tr>
-<td valign="top"><a href="https://github.com/AidenNguyenCyber/vulnerability-management-program"><img alt="Vulnerability Management Program — 23 to 3 findings, an 87% reduction" src="assets/featured-vulnerability-management.svg" width="100%"></a></td>
-<td valign="top"><a href="https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response"><img alt="Azure MySQL Honeypot — Sentinel, KQL and incident response" src="assets/featured-azure-honeypot.svg" width="100%"></a></td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/AidenNguyenCyber/vulnerability-management-program"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-vulnerability-management.svg" width="100%" alt="Vulnerability Management Program — Tenable · 87% fewer scan findings"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/vulnerability-management-program">Vulnerability Management Program</a></strong></p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-azure-honeypot.svg" width="100%" alt="Azure MySQL Honeypot Investigation — Sentinel · Defender · KQL"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response">Azure MySQL Honeypot Investigation</a></strong></p>
+</td>
 </tr>
 </table>
 
@@ -39,65 +65,65 @@ A selection of projects in systems administration, cloud infrastructure, vulnera
 
 **15 projects · 6 technical categories**
 
-Select a category to explore its projects and technical documentation.
+Select a category to explore its projects and documentation.
 
 <details>
 <summary><strong>01 · Cyber Range</strong> — 5 projects</summary>
 
-Vulnerability management, threat hunting, endpoint security, and incident response.
+Vulnerability management, threat hunting, endpoint investigation, and incident response in simulated enterprise environments.
 
-- **[Vulnerability Management Program Implementation](https://github.com/AidenNguyenCyber/vulnerability-management-program)** — Developed a vulnerability management process in a simulated enterprise environment. Reduced scan findings from 23 to 3 through remediation and validation.
-- **[Programmatic Vulnerability Remediations](https://github.com/AidenNguyenCyber/programmatic-vulnerability-remediations)** — Documented PowerShell and command-line fixes for Windows security configurations, including SMB signing and RDP authentication.
-- **[Threat Hunting — Tor Browser Usage](https://github.com/legrado/threat-hunting-scenario-tor)** — Correlated Defender file, process, and network telemetry to investigate Tor Browser usage.
-- **[Microsoft Defender Endpoint Compromise Investigation](https://github.com/AidenNguyenCyber/microsoft-defender-incident-investigation)** — Reconstructed a simulated compromise involving unauthorized authentication, remote execution, persistence, and command-and-control activity.
-- **[Azure MySQL Honeypot Compromise Detection & Incident Response](https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response)** — Monitored and investigated a MySQL compromise using Azure, Sentinel, Defender, and database audit evidence.
+- **[Vulnerability Management Program Implementation](https://github.com/AidenNguyenCyber/vulnerability-management-program)** — Built a vulnerability management process using Tenable, performed remediation, and reduced scan findings from 23 to 3 through follow-up scanning (87% reduction).
+- **[Programmatic Vulnerability Remediations](https://github.com/AidenNguyenCyber/programmatic-vulnerability-remediations)** — Documented PowerShell and command-line remediation for Windows security settings, including SMB signing and RDP Network Level Authentication.
+- **[Threat Hunting — Tor Browser Usage](https://github.com/legrado/threat-hunting-scenario-tor)** — Investigated suspected Tor activity using Microsoft Defender endpoint telemetry and KQL.
+- **[Microsoft Defender Endpoint Compromise Investigation](https://github.com/AidenNguyenCyber/microsoft-defender-incident-investigation)** — Reconstructed a simulated compromise involving unauthorized logons, WMI-based remote execution, persistence, and command-and-control activity.
+- **[Azure MySQL Honeypot Compromise Detection & Incident Response](https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response)** — Investigated a MySQL compromise using Microsoft Sentinel, Defender for Endpoint, database audit logs, and KQL to correlate evidence and document incident response.
 
 </details>
 
 <details>
 <summary><strong>02 · Active Directory & Windows Server</strong> — 2 projects</summary>
 
-Group Policy and certificate infrastructure administration.
+Group Policy, centralized configuration, and certificate infrastructure.
 
-- **Advanced Group Policy** — ADMX templates, Group Policy Preferences, drive mapping, item-level targeting, and Folder Redirection.
-- **PKI & Certificate Services** — Offline Root CA, Subordinate CA, certificate templates, enrollment, key recovery, and CRL/AIA configuration.
+- **[Advanced Group Policy Management](https://github.com/AidenNguyenCyber/AD-Group-Policy-Management)** — Office ADMX policies, Group Policy Preferences, targeted drive mapping, local administrator management, and Folder Redirection.
+- **[AD PKI Deployment](https://github.com/AidenNguyenCyber/AD-PKI-Deployment)** — Two-tier certificate authority infrastructure with an offline Root CA, enterprise subordinate CA, CDP/AIA configuration, and Group Policy root certificate distribution.
 
 </details>
 
 <details>
 <summary><strong>03 · PowerShell</strong> — 2 projects</summary>
 
-Windows administrative scripting, reusable functions, and automation.
+Windows administrative scripting and automation.
 
-- **AD Security Group Maintenance Automation** — Scheduled cleanup of disabled user accounts from Active Directory security groups.
-- **[Advanced Functions & Script Modules](https://github.com/AidenNguyenCyber/Az-040-Project)** — Get-CorpOSInfo, CIM, pipeline input, parameter validation, and modules.
+- **[Scheduled AD Security Group Maintenance](https://github.com/AidenNguyenCyber/PowerShell-AD-Group-Maintenance)** — Configured a scheduled task using a provided PowerShell script to remove disabled accounts from a security group; verified execution and membership cleanup.
+- **[Advanced Functions & Script Modules](https://github.com/AidenNguyenCyber/Az-040-Project)** — PowerShell lab work involving advanced functions, CIM, pipeline input, parameter validation, and modules.
 
 </details>
 
 <details>
 <summary><strong>04 · Azure & Microsoft 365</strong> — 2 projects</summary>
 
-Cloud resources and Microsoft 365 administration with PowerShell.
+Cloud provisioning and Microsoft 365 administration.
 
-- **Azure VM Deployment & Disk Management** — Virtual machine provisioning and disk management using PowerShell.
-- **Microsoft 365 Administration with PowerShell** — Entra ID, Exchange Online, SharePoint, and Teams administration labs.
+- **[Azure VM Deployment & Disk Management](https://github.com/AidenNguyenCyber/Azure-VM-Disk-Management)** — Azure VM provisioning and managed disk administration using PowerShell.
+- **[Microsoft 365 Administration with PowerShell](https://github.com/AidenNguyenCyber/M365-PowerShell-Administration)** — Entra ID identities, Exchange Online room booking, SharePoint site provisioning, and Microsoft Teams membership.
 
 </details>
 
 <details>
 <summary><strong>05 · Docker</strong> — 1 combined project, 5 labs</summary>
 
-- **Docker Administration & Troubleshooting** — Docker Engine and Compose installation; Nginx deployment; container removal; encrypted file transfer and integrity validation; website outage troubleshooting.
+- **[Docker Container Administration](https://github.com/AidenNguyenCyber/Docker-Container-Administration)** — Five separate Linux/Docker labs covering installation, Nginx deployment, container removal, file integrity validation, and troubleshooting.
 
 </details>
 
 <details>
 <summary><strong>06 · Terraform / AWS</strong> — 3 projects, 14 labs</summary>
 
-Infrastructure as Code exercises, grouped by technical focus. Each lab represents a separate environment.
+Independent Infrastructure as Code exercises grouped by technical area, not one integrated AWS deployment.
 
-- **AWS Infrastructure Deployment** — KodeKloud Labs 2, 4, 7, 9, 35.
-- **AWS Security & IAM** — KodeKloud Labs 13, 14, 16, 24, 27.
-- **Terraform Automation & Monitoring** — KodeKloud Labs 11, 21, 25, 28.
+- **[AWS Infrastructure Deployment](https://github.com/AidenNguyenCyber/Terraform-AWS-Infrastructure-Deployment)** — Labs 2, 4, 7, 9, 35: VPC, security groups, EC2, EBS, and Terraform variables.
+- **[AWS Security & IAM](https://github.com/AidenNguyenCyber/Terraform-AWS-Security-IAM)** — Labs 13, 14, 16, 24, 27: S3 public-access protection, IAM identities and policies, policy attachments, and Secrets Manager.
+- **[Terraform Automation & Monitoring](https://github.com/AidenNguyenCyber/Terraform-AWS-Automation-Monitoring)** — Labs 11, 21, 25, 28: CloudWatch monitoring and logging, EC2 resizing, and S3 versioning.
 
 </details>
