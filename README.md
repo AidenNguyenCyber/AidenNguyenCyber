@@ -8,17 +8,13 @@
 
 ## About
 
-I hold a **Bachelor of Science in Computer Science**, have **6+ years of U.S. Air Force service**, and maintain an **active Secret security clearance**. I also hold CompTIA **Security+, CySA+, and PenTest+** certifications.
+I hold a **Bachelor of Science in Computer Science**, have **6+ years of U.S. Air Force service**, and maintain an **active Secret security clearance**. I also hold **Security+, CySA+, and PenTest+** certifications.
 
-I'm currently participating in **Microsoft Software & Systems Academy (MSSA)**, specializing in Server and Cloud Administration.
+I'm currently attending **Microsoft Software & Systems Academy (MSSA)**, specializing in Server and Cloud Administration.
 
-My technical lab experience spans Windows Server administration, Active Directory, cloud infrastructure, PowerShell automation, and cybersecurity. This portfolio documents hands-on configurations, troubleshooting, security investigations, and verified results.
+My portfolio showcases hands-on technical labs in systems administration, cloud infrastructure, automation, and cybersecurity, with documented configurations, troubleshooting, and verified results.
 
-**Technical lab focus:**
-
-- **Systems & Identity:** Windows Server, Active Directory, Group Policy, PKI, PowerShell, Microsoft Entra ID
-- **Cloud & Infrastructure:** Microsoft Azure, Microsoft 365, AWS, Terraform, Docker, Linux
-- **Cybersecurity:** Tenable vulnerability management, Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, threat hunting, incident response
+**Technical lab focus:** Windows Server · Active Directory · PowerShell · Azure · AWS · Terraform · Docker · Microsoft Defender · Sentinel · Tenable · KQL
 
 ---
 
@@ -65,10 +61,10 @@ Selected projects across systems administration, cloud infrastructure, and cyber
 
 **15 projects · 6 technical categories**
 
-Select a category to explore its projects and documentation.
+**Click a category below to expand and explore its projects.**
 
 <details>
-<summary><strong>01 · Cyber Range</strong> — 5 projects</summary>
+<summary><strong>01 · Cyber Range</strong> — 5 projects · <strong>View projects</strong></summary>
 
 Vulnerability management, threat hunting, endpoint investigation, and incident response in simulated enterprise environments.
 
@@ -81,7 +77,7 @@ Vulnerability management, threat hunting, endpoint investigation, and incident r
 </details>
 
 <details>
-<summary><strong>02 · Active Directory & Windows Server</strong> — 2 projects</summary>
+<summary><strong>02 · Active Directory & Windows Server</strong> — 2 projects · <strong>View projects</strong></summary>
 
 Group Policy, centralized configuration, and certificate infrastructure.
 
@@ -91,7 +87,7 @@ Group Policy, centralized configuration, and certificate infrastructure.
 </details>
 
 <details>
-<summary><strong>03 · PowerShell</strong> — 2 projects</summary>
+<summary><strong>03 · PowerShell</strong> — 2 projects · <strong>View projects</strong></summary>
 
 Windows administrative scripting and automation.
 
@@ -101,7 +97,7 @@ Windows administrative scripting and automation.
 </details>
 
 <details>
-<summary><strong>04 · Azure & Microsoft 365</strong> — 2 projects</summary>
+<summary><strong>04 · Azure & Microsoft 365</strong> — 2 projects · <strong>View projects</strong></summary>
 
 Cloud provisioning and Microsoft 365 administration.
 
@@ -111,14 +107,14 @@ Cloud provisioning and Microsoft 365 administration.
 </details>
 
 <details>
-<summary><strong>05 · Docker</strong> — 1 combined project, 5 labs</summary>
+<summary><strong>05 · Docker</strong> — 1 combined project, 5 labs · <strong>View projects</strong></summary>
 
 - **[Docker Container Administration](https://github.com/AidenNguyenCyber/Docker-Container-Administration)** — Five separate Linux/Docker labs covering installation, Nginx deployment, container removal, file integrity validation, and troubleshooting.
 
 </details>
 
 <details>
-<summary><strong>06 · Terraform / AWS</strong> — 3 projects, 14 labs</summary>
+<summary><strong>06 · Terraform / AWS</strong> — 3 projects, 14 labs · <strong>View projects</strong></summary>
 
 Independent Infrastructure as Code exercises grouped by technical area, not one integrated AWS deployment.
 
