@@ -39,8 +39,8 @@ Selected projects across systems administration, cloud infrastructure, and cyber
 <p align="center"><strong><a href="https://github.com/AidenNguyenCyber/AD-PKI-Deployment">PKI & Certificate Services</a></strong></p>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/AidenNguyenCyber/Azure-VM-Disk-Management"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-azure-vm.svg" width="100%" alt="Azure VM & Disk Management — Azure PowerShell · Managed disks"></a>
-<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/Azure-VM-Disk-Management">Azure VM & Disk Management</a></strong></p>
+<a href="https://github.com/AidenNguyenCyber/Sentinel-Project"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-operation-sentinel.svg" width="100%" alt="Operation Sentinel — Windows administration · PowerShell · 7 scripts"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/Sentinel-Project">Operation Sentinel</a></strong></p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ Selected projects across systems administration, cloud infrastructure, and cyber
 
 ## All Projects
 
-**15 projects · 6 technical categories**
+**16 projects · 6 technical categories**
 
 **Click a category below to expand and explore its projects.**
 
@@ -87,12 +87,13 @@ Group Policy, centralized configuration, and certificate infrastructure.
 </details>
 
 <details>
-<summary><strong>03 · PowerShell</strong> — 2 projects · <strong>View projects</strong></summary>
+<summary><strong>03 · PowerShell</strong> — 3 projects · <strong>View projects</strong></summary>
 
 Windows administrative scripting and automation.
 
 - **[Scheduled AD Security Group Maintenance](https://github.com/AidenNguyenCyber/PowerShell-AD-Group-Maintenance)** — Configured a scheduled task using a provided PowerShell script to remove disabled accounts from a security group; verified execution and membership cleanup.
 - **[Advanced Functions & Script Modules](https://github.com/AidenNguyenCyber/Az-040-Project)** — PowerShell lab work involving advanced functions, CIM, pipeline input, parameter validation, and modules.
+- **[Operation Sentinel — PowerShell Infrastructure Monitoring](https://github.com/AidenNguyenCyber/Sentinel-Project)** — Built seven PowerShell scripts for Windows domain inventory, health checks, event review, security auditing, approval-controlled service recovery, SHA-256 backup verification, and HTML reporting. Documented lab results and limitations.
 
 </details>
 
