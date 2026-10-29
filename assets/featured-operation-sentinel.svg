@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="Operation Sentinel: PowerShell infrastructure monitoring · Seven scripts">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="PowerShell Infrastructure and Security Automation: Seven PowerShell scripts">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2=".9"><stop stop-color="#19354A"/><stop offset="1" stop-color="#10273B"/></linearGradient></defs>
 <rect width="560" height="180" rx="12" fill="url(#bg)"/>
 <rect x="1" y="1" width="558" height="178" rx="11" fill="none" stroke="#385A70" stroke-width="1.5"/>
 <rect x="0" y="0" width="560" height="5" rx="2" fill="#71D0EF"/>
 <path d="M418 177L559 36V178Z" fill="#71D0EF" opacity=".045"/>
 <text x="28" y="41" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.15" fill="#71D0EF">POWERSHELL / WINDOWS SERVER</text>
-<text x="28" y="99" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#F5F8FB">Operation Sentinel</text>
-<text x="28" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#C9DAE6">7 scripts · Inventory · Security · Reports</text>
+<text x="28" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#F5F8FB">PowerShell Infrastructure</text>
+<text x="28" y="121" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#F5F8FB">&amp; Security Automation</text>
+<text x="28" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#C9DAE6">7 scripts · Inventory · Security · Reports</text>
 <g transform="translate(490 108)" aria-hidden="true">
   <path d="M0-46L26-20 32 7 0 47-32 7-26-20Z" fill="#7931BA" stroke="#EDD9FF" stroke-width="1.6" stroke-linejoin="round"/>
   <path d="M0-46L-26-20-32 7-10-5Z" fill="#D298FC"/>
