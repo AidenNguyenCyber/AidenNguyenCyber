@@ -39,8 +39,8 @@ Selected projects across systems administration, cloud infrastructure, and cyber
 <p align="center"><strong><a href="https://github.com/AidenNguyenCyber/AD-PKI-Deployment">PKI & Certificate Services</a></strong></p>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/AidenNguyenCyber/Sentinel-Project"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-operation-sentinel.svg" width="100%" alt="Operation Sentinel — Windows administration · PowerShell · 7 scripts"></a>
-<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/Sentinel-Project">Operation Sentinel</a></strong></p>
+<a href="https://github.com/AidenNguyenCyber/Sentinel-Project"><img src="https://raw.githubusercontent.com/AidenNguyenCyber/AidenNguyenCyber/main/assets/featured-operation-sentinel.svg" width="100%" alt="PowerShell Infrastructure & Security Automation — 7 Windows Server administration scripts"></a>
+<p align="center"><strong><a href="https://github.com/AidenNguyenCyber/Sentinel-Project">PowerShell Infrastructure &amp; Security Automation</a></strong></p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Windows administrative scripting and automation.
 
 - **[Scheduled AD Security Group Maintenance](https://github.com/AidenNguyenCyber/PowerShell-AD-Group-Maintenance)** — Configured a scheduled task using a provided PowerShell script to remove disabled accounts from a security group; verified execution and membership cleanup.
 - **[Advanced Functions & Script Modules](https://github.com/AidenNguyenCyber/Az-040-Project)** — PowerShell lab work involving advanced functions, CIM, pipeline input, parameter validation, and modules.
-- **[Operation Sentinel — PowerShell Infrastructure Monitoring](https://github.com/AidenNguyenCyber/Sentinel-Project)** — Built seven PowerShell scripts for Windows domain inventory, health checks, event review, security auditing, approval-controlled service recovery, SHA-256 backup verification, and HTML reporting. Documented lab results and limitations.
+- **[PowerShell Infrastructure & Security Automation](https://github.com/AidenNguyenCyber/Sentinel-Project)** — Built seven PowerShell scripts for Windows domain inventory, health checks, event review, security auditing, approval-controlled service recovery, SHA-256 backup verification, and HTML reporting. Documented lab results and limitations.
 
 </details>
 
